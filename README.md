@@ -75,7 +75,7 @@ career_focus: ["Full Stack Development", "Mobile Applications", "Web Development
 
 | 🏢 **Company** | 📅 **Duration** | 🛠️ **Role** | 🔗 **Project** |
 |:---:|:---:|:---:|:---:|
-| **Erbil Cafe ** | sep 2022 | Mobile Applications | [Erbil Cafe ](https://github.com/omarrmukhtarr/Erbil-Cafe) |
+| **Erbil Cafe** | sep 2022 | Mobile Applications | [Erbil Cafe ](https://github.com/omarrmukhtarr/Erbil-Cafe) |
 | **Full Stop Company** | Jan 2023 - Present | Web Developer | [fullstop.krd](https://www.fullstop.krd) |
 | **Jamana Real Estate** | Nov 2024 - Present | Web Developer | [jamana-realestate.com](https://www.jamana-realestate.com/) |
 
