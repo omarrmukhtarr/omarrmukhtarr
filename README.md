@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://omermukhtar.me">🌐 Portfolio</a> · 
+  <a href="https://omarmukhtar.me">🌐 Portfolio</a> · 
   <a href="mailto:omermukhtar55@gmail.com">✉️ Email</a> · 
   <a href="https://github.com/omarrmukhtarr">💻 GitHub</a>
 </p>
