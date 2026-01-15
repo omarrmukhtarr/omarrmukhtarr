@@ -1,5 +1,5 @@
 <h1 align="center">
-  <samp>Omer Mukhtar</samp>
+  <samp>Omar Mukhtar Saeed</samp>
 </h1>
 
 <p align="center">
