@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Omer+Mukhtar+%F0%9F%91%8B" alt="Typing SVG" />
+  <samp>Omer Mukhtar</samp>
 </h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> from Erbil, Kurdistan 🇮🇶
+  <samp>Full Stack Developer · Erbil, Kurdistan 🇮🇶</samp>
 </p>
 
 <p align="center">
@@ -16,46 +16,22 @@
 
 ### 👨‍💻 About
 
-I'm a Full Stack Developer passionate about crafting web and mobile experiences. Currently in my final year of Computer Engineering at Lebanese French University. I love turning ideas into clean, functional code.
+Full Stack Developer with experience building web and mobile applications. Currently working at **xCreative** and have collaborated with **Full Stop Company** and **Jamana Real Estate** on freelance projects. Pursuing a Bachelor's in Computer Engineering at Lebanese French University.
 
 ---
 
-### 💼 Experience
-
-| Role                 | Company            | Link                                                   |
-| -------------------- | ------------------ | ------------------------------------------------------ |
-| Full Stack Developer | xCreative          | [xcreative.studio](https://xcreative.studio)           |
-| Web Developer        | Full Stop Company  | [fullstop.krd](https://fullstop.krd)                   |
-| Web Developer        | Jamana Real Estate | [jamana-realestate.com](https://jamana-realestate.com) |
-
----
-
-### 🛠️ Tech Stack
+### �️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,django,nodejs,react,flutter,swift,cpp,git,github,mysql,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,dart,swift&perline=6" />
 </p>
 
----
-
-### 🚀 Projects
-
 <p align="center">
-  <a href="https://github.com/omarrmukhtarr/Erbil-Cafe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarrmukhtarr&repo=Erbil-Cafe&theme=github_dark&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/omarrmukhtarr/littlelemon-capstone-omer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarrmukhtarr&repo=littlelemon-capstone-omer&theme=github_dark&hide_border=true&border_radius=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,flutter,html,css&perline=6" />
 </p>
 
----
-
-### 📊 Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarrmukhtarr&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarrmukhtarr&theme=github-dark-blue&hide_border=true&border_radius=12" height="165" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,xcode&perline=6" />
 </p>
 
 ---
@@ -72,6 +48,12 @@ I'm a Full Stack Developer passionate about crafting web and mobile experiences.
 🏅 Meta Back-End Engineer Bootcamp · Coursera · 2024  
 🏅 Jousour Program · WFP · 2023  
 🏅 WeCode Mobile App Bootcamp · Rwanga Foundation · 2022
+
+---
+
+### 🌍 Languages
+
+Kurdish (Native) · English · Arabic
 
 ---
 
