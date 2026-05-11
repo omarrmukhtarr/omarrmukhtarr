@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <samp>Full Stack Developer · Erbil, Kurdistan 🇮🇶</samp>
+  <samp>iOS Developer · Erbil, Kurdistan 🇮🇶</samp>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About
 
-Full Stack Developer with experience building web and mobile applications. Currently working at **Gateway** and have collaborated with **Full Stop Company** and **Jamana Real Estate** on freelance projects. Pursuing a Bachelor's in Computer Engineering at Lebanese French University.
+iOS Developer with experience building web and mobile applications. Currently working at **Gateway** and have collaborated with **Full Stop Company** and **Jamana Real Estate** on freelance projects. Pursuing a Bachelor's in Computer Engineering at Lebanese French University.
 
 ---
 
