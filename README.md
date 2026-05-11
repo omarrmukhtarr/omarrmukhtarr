@@ -38,7 +38,7 @@ iOS Developer with experience building web and mobile applications. Currently wo
 
 ### 🎓 Education
 
-**Bachelor's in Computer Engineering** · Lebanese French University · 2022 – Present  
+**Bachelor's in Computer Engineering** · Lebanese French University · 2022 – 2026  
 **Diploma in IT** · Erbil Polytechnic University · 2018 – 2020
 
 ---
