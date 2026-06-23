@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About
 
-iOS Developer with experience building web and mobile applications. Currently working at **Gateway** and have collaborated with **Full Stop Company** and **Jamana Real Estate** on freelance projects. Pursuing a Bachelor's in Computer Engineering at Lebanese French University.
+iOS Developer with experience building web and mobile applications.have collaborated with **Full Stop Company** and **Jamana Real Estate** on freelance projects. Pursuing a Bachelor's in Computer Engineering at Lebanese French University.
 
 ---
 
